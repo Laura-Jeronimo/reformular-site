@@ -1,0 +1,67 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color:rgba(	242, 159, 5, 0.8);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navcolor {
+    background-color: #D97904;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 5%;
+    color: #8D0603;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+h2 {
+    text-align: center;
+    color:black;
+    margin-top: 7%;
+    
+}
+
+h3 {
+    margin-top: 3%;
+}
+
+h6 {
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    margin-bottom: 3%;
+}
+
+.tam {
+    font-size: 20px;
+}
+
+a {
+    margin-right: 2%;
+}
+
+p {
+    font-size: 18px;
+    margin-left: 8%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+body::-webkit-scrollbar {
+    width: 8px;             
+  }
+  
+
+  body::-webkit-scrollbar-thumb {
+    background-color: #8D0603;   
+    border-radius: 20px;       
+  }
+  
+  #contato {
+      margin-bottom: 5%;
+  }
